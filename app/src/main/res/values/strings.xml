@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shoocal</string>
+    <string-array name="s">
+        <item>Owner</item>
+        <item>Manager</item>
+        <item>Other</item>
+    </string-array>
+</resources>
